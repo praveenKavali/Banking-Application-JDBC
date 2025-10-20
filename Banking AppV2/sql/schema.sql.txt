@@ -1,0 +1,10 @@
+create database AccountInfo;
+
+use AccountInfo;
+
+create table AccountsData(
+    AccountId int identity(1000000, 1) primary key,
+	Name varchar(50) not null,
+	Balance float check(Balance >= 0),
+	createdAt datetime default current_timestamp
+);
