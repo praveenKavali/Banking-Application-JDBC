@@ -43,7 +43,7 @@ A modular, real-world banking application built in Java using JDBC and SQL. It s
 ![CLI Input](first.rs.in.png)
 
 ## Database Update
-![DB Change](first.db.op.png)
+![DB Change](zero.db.op.png)
 
 ### Database Update
 ![DB Change](second.db.op.png)
@@ -55,7 +55,7 @@ A modular, real-world banking application built in Java using JDBC and SQL. It s
 ![CLI Input](third.rs.in.2.png)
 
 ### Database Update
-![DB Change](third.db.op.png)
+![DB Change](third.Zdb.op.png)
 
 
 ## ⚙️ Setup Instructions
@@ -100,3 +100,4 @@ Open to feedback, suggestions, and collaboration!
 
 🔗 [GitHub](https://github.com/praveenKavali)
 🔗 [Linkedin](https://www.linkedin.com/in/praveen-kavali-ba2378314/)
+
