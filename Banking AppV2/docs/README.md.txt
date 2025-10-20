@@ -1,4 +1,4 @@
-# 💳 Banking JDBC App (Version 2)
+# 💳 Banking JDBC App (Version 1)
 
 A modular, real-world banking application built in Java using JDBC and SQL. It supports account creation, deposits, withdrawals, and transaction safety. Designed for learning, showcasing backend skills, and future expansion.
 
@@ -100,4 +100,5 @@ Open to feedback, suggestions, and collaboration!
 
 🔗 [GitHub](https://github.com/praveenKavali)
 🔗 [Linkedin](https://www.linkedin.com/in/praveen-kavali-ba2378314/)
+
 
