@@ -41,22 +41,25 @@ A modular, real-world banking application built in Java using JDBC and SQL. It s
 ## 🖼 Screenshots
 
 # CLI Input Example
-![CLI Input]first.rs.in.png
-
-## Database Update
-![DB Change](first.db.op.png)
-
-### Database Update
+## Databas<img width="572" height="751" alt="first rs in" src="https://github.com/user-attachments/assets/0d7090a2-22e0-4449-9464-912fd478e592" />
+e Update
+![DB Change]
+###<img width="869" height="324" alt="first db op" src="https://github.com/user-attachments/assets/2c4d4fc7-aded-4cac-8418-c6a7900e4ac3" />
+ Database Update
 ![DB Change](second.db.op.png)
 
-### CLI Input Example
+### CL<img width="430" height="149" alt="second db op" src="https://github.com/user-attachments/assets/4b674a16-e21a-43fc-a343-4f33fcdd5ac4" />
+I Input Example
 ![CLI Input](third.rs.in.png)
 
-### CLI Input Example
+### CLI Input Ex<img width="490" height="746" alt="third rs in" src="https://github.com/user-attachments/assets/2683bbc6-9ec5-4564-b664-755e5fa86840" />
+ample
 ![CLI Input](third.rs.in.2.png)
 
-### Database Update
+### Database Update<img width="494" height="405" alt="third rs in 2" src="https://github.com/user-attachments/assets/ebfd6812-bc0d-4169-b4cd-46d3b9685fd4" />
+
 ![DB Change](third.db.op.png)
+<img width="442" height="160" alt="third db op" src="https://github.com/user-attachments/assets/f14eb1db-0d8f-4ad2-a62a-e8713cb1a4b7" />
 
 
 ## ⚙️ Setup Instructions
