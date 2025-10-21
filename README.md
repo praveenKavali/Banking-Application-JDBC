@@ -42,10 +42,7 @@ A modular, real-world banking application built in Java using JDBC and SQL. It s
 
 # CLI Input Example
 ## Databas<img width="572" height="751" alt="first rs in" src="https://github.com/user-attachments/assets/0d7090a2-22e0-4449-9464-912fd478e592" />
-e Update
-![DB Change]
-###<img width="869" height="324" alt="first db op" src="https://github.com/user-attachments/assets/2c4d4fc7-aded-4cac-8418-c6a7900e4ac3" />
- Database Update
+ Update
 ![DB Change](second.db.op.png)
 
 ### CL<img width="430" height="149" alt="second db op" src="https://github.com/user-attachments/assets/4b674a16-e21a-43fc-a343-4f33fcdd5ac4" />
