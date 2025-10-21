@@ -99,5 +99,5 @@ This project is licensed under the MIT License.
 ### 🤝 Contributions
 Open to feedback, suggestions, and collaboration!
 
-🔗 [GitHub] -https://github.com/praveenKavali
-🔗 [Linkedin]- https://www.linkedin.com/in/praveen-kavali-ba2378314
+🔗 [GitHub] -(https://github.com/praveenKavali)
+🔗 [Linkedin]- (https://www.linkedin.com/in/praveen-kavali-ba2378314)
